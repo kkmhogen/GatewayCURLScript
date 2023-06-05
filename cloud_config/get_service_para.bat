@@ -1,3 +1,3 @@
-curl --request GET --url http://192.168.4.100/cgi-bin/luci/admin/gethcloud --header 'content-type:application/x-www-form-urlencoded' --cookie sysauth=868a81f2277737d9c4a5e2cebcfa5c0b
+curl --request GET --url http://192.168.8.1/cgi-bin/luci/admin/gethcloud --header 'content-type:application/x-www-form-urlencoded' --cookie sysauth=e96b8b483345a3347c5a6f8b012ea305
 
 pause
